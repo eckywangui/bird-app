@@ -1,7 +1,7 @@
 # seed.py
 
-from app import app
-from models import db, Bird
+from Backend.app import app
+from Backend.models import db, Bird
 
 # db.init_app(app)
 
